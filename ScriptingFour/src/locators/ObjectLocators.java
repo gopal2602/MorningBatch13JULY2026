@@ -24,5 +24,4 @@ public interface ObjectLocators {
     public static By obj_DeleteUser_Button = By.xpath("//button[contains(text(), 'Delete User')]");
     public static By obj_Logout_Link = By.xpath("//a[@id='logoutLink']");
     public static By obj_LoginPageLogo_Image = By.xpath("//img[contains(@src, 'timer.png')]");
-    public static By obj_Dummy_Button = By.xpath("//input[@id='button1111']");
 }

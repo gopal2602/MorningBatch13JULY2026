@@ -2,7 +2,6 @@ package scripts;
 
 import methods.AppDependentMethods;
 import methods.AppIndependentMethods;
-
 import org.openqa.selenium.WebDriver;
 import java.util.HashMap;
 import java.util.Map;
