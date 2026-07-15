@@ -24,11 +24,13 @@ public class TestScripts {
             AppDependentMethods.logoutFromActiTime(oBrowser);
         }catch(Exception e){
             System.out.println("Exception in 'TS_LoginAndLogout()' testScript: "+ e);
-        }finally{
+        }finally
+        {
             oBrowser.close();
             oBrowser = null;
         }
     }
+
 
 
     //TC_102: Create and Delete user functionality
