@@ -3,7 +3,6 @@ package methods;
 import locators.ObjectLocators;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
 import java.util.Map;
 
 public class AppDependentMethods implements ObjectLocators {
